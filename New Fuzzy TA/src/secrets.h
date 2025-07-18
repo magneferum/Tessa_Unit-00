@@ -1,13 +1,13 @@
 #pragma once
 
 // --- Konfigurasi WiFi ---
-#define WIFI_SSID "ehe te nandayo"
-#define WIFI_PASSWORD "024681012"
+#define WIFI_SSID "Inser Your SSID"
+#define WIFI_PASSWORD "Inser Your Password"
 
 // --- Konfigurasi Firebase ---
-#define WEB_API_KEY "AIzaSyAih_rlGbTMpshEsrbll5bL9WH8kjDeg24"
-#define DATABASE_URL "https://final-project-ab8b7-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define WEB_API_KEY "Firebase->Go to Console->Select Project->Build->Autentication"
+#define DATABASE_URL "Firebase->Go to Console->Select Project->Build->Realtime Database->Copy Database URL"
 
 // --- Konfigurasi Autentikasi Pengguna ---
-#define USER_EMAIL "hernadimas45@gmail.com"
-#define USER_PASS "Adaaja123"
+#define USER_EMAIL "Insert Your Database E-Mail"
+#define USER_PASS "Insert Your Database Password"
